@@ -1,0 +1,61 @@
+{
+  "navItems": [
+    {
+      "role": "EMPLOYEE",
+      "items": [
+        { "name": "Dashboard", "icon": "LayoutDashboard" },
+        { "name": "My Tasks", "icon": "ListTodo" },
+        { "name": "Projects", "icon": "Presentation" },
+        { "name": "Team Calendar", "icon": "CalendarFold" },
+        { "name": "Notifications", "icon": "Bell" },
+        { "name": "Performance", "icon": "ChartNoAxesCombined" },
+        { "name": "Time Tracking", "icon": "ClockAlert" },
+        { "name": "My Holidays", "icon": "Volleyball" },
+        { "name": "Settings", "icon": "Settings" }
+      ]
+    },
+    {
+      "role": "TEAM_LEAD",
+      "items": [
+        { "name": "Dashboard", "icon": "LayoutDashboard" },
+        { "name": "My Team", "icon": "Group" },
+        { "name": "Projects", "icon": "Presentation" },
+        { "name": "Team Calendar", "icon": "CalendarFold" },
+        { "name": "Task Allocation", "icon": "Locate" },
+        { "name": "Reports", "icon": "ChartNoAxesCombined" },
+        { "name": "Meetings", "icon": "ClockAlert" },
+        { "name": "Notifications", "icon": "Bell" },
+        { "name": "Team Holidays", "icon": "Volleyball" },
+        { "name": "Settings", "icon": "Settings" }
+      ]
+    },
+    {
+      "role": "MANAGER",
+      "items": [
+        { "name": "Dashboard", "icon": "LayoutDashboard" },
+        { "name": "Project Portfolio", "icon": "Presentation" },
+        { "name": "Performance", "icon": "ChartNoAxesCombined" },
+        { "name": "Budgets", "icon": "HandCoins" },
+        { "name": "Analytics", "icon": "Flag" },
+        { "name": "Meetings", "icon": "ClockAlert" },
+        { "name": "Notifications", "icon": "Bell" },
+        { "name": "Holiday", "icon": "Volleyball" },
+        { "name": "Settings", "icon": "Settings" }
+      ]
+    },
+    {
+      "role": "CEO",
+      "items": [
+        { "name": "Dashboard", "icon": "LayoutDashboard" },
+        { "name": "Projects", "icon": "Presentation" },
+        { "name": "Financial ", "icon": "ChartNoAxesCombined" },
+        { "name": "Employees", "icon": "Group" },
+        { "name": "Company Health", "icon": "Building2" },
+        { "name": "Reports", "icon": "Flag" },
+        { "name": "Notifications", "icon": "Bell" },
+        { "name": "Holiday Analytics", "icon": "Volleyball" },
+        { "name": "Settings", "icon": "Settings" }
+      ]
+    }
+  ]
+}
